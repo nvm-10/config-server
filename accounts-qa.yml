@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to nvm10 account ms Quality Assurance APIs."
+  message: "Welcome to nvm10 account ms QA APIs."
   contactDetails:
     name: "John Doe QA"
     email: "{cipher}d76d04f624afcda3baf2edec0516412fc98a7a9c5607528769583fe18afca099"

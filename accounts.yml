@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to nvm10 account ms APIs."
   contactDetails:
     name: "John Doe"
-    email: "john@doe.com"
+    email: "{cipher}9b20abd020bcbae19ff341099fb7eadd7b6ef47d6a652caa8993280a4bd08c2f"
   onCallSupport:
     -(555) 555-1234
     -(555) 555-1235

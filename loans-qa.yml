@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 loans:
-  message: "Welcome to nvm10 loans ms Quality Assurance APIs."
+  message: "Welcome to nvm10 loans ms QA APIs."
   contactDetails:
     name: "John Doe"
     email: "john@doe.com"

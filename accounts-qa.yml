@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to nvm10 account ms QA (webhook) APIs."
   contactDetails:
-    name: "John Doe - Quality Assurance"
+    name: "John Doe - Lead QA"
     email: "{cipher}d76d04f624afcda3baf2edec0516412fc98a7a9c5607528769583fe18afca099"
   onCallSupport:
     -(555) 555-1234

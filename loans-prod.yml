@@ -2,7 +2,7 @@ build:
   version: "3.3"
 
 accounts:
-  message: "Welcome to nvm10 account ms APIs."
+  message: "Welcome to nvm10 loans ms production APIs."
   contactDetails:
     name: "John Doe"
     email: "john@doe.com"
